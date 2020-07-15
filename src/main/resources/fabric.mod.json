@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "megatools",
+  "version": "${version}",
+
+  "name": "Mega Tools",
+  "description": "Herramientas para modificar el terreno mas facilmente",
+  "authors": [
+    "pelanguero"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/pelanguero/Mega-Tools"
+  },
+
+  "license": "MIT",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.megatools.MegaTools"
+    ]
+  },
+  "mixins": [
+    ""
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}
