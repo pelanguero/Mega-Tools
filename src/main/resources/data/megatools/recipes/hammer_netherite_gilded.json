@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+      "item": "megatools:hammer_netherite"
+  },
+  "addition": {
+      "item": "minecraft:gold_block"
+  },
+  "result": {
+      "item": "megatools:hammer_netherite_gilded"
+  }
+}

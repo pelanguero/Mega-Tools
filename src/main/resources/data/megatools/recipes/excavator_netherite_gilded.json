@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+      "item": "megatools:excavator_netherite"
+  },
+  "addition": {
+      "item": "minecraft:gold_block"
+  },
+  "result": {
+      "item": "megatools:excavator_netherite_gilded"
+  }
+}

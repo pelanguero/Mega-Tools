@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      "# ",
+      "I#"
+  ],
+  "key": {
+      "#": {
+          "item": "minecraft:netherite_scrap"
+      },
+      "I": {
+          "item": "megatools:excavator_diamond"
+      }
+  },
+  "result": {
+      "item": "megatools:excavator_diamond_corrupted",
+      "count": 1
+  }
+}

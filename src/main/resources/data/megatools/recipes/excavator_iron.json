@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      "iIi",
+      " N "
+  ],
+  "key": {
+      "i": {
+          "item": "minecraft:iron_ingot"
+      },
+      "I": {
+          "item": "minecraft:iron_block"
+      },
+      "N": {
+          "item": "minecraft:iron_shovel"
+      }
+  },
+  "result": {
+      "item": "megatools:excavator_iron",
+      "count": 1
+  }
+}

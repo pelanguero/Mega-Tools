@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      "g ",
+      "Ig"
+  ],
+  "key": {
+      "g": {
+          "item": "minecraft:gold_ingot"
+      },
+      "I": {
+          "item": "megatools:hammer_iron"
+      }
+  },
+  "result": {
+      "item": "megatools:hammer_iron_gilded",
+      "count": 1
+  }
+}

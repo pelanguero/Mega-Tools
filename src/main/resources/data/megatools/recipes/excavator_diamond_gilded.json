@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      "# ",
+      "I#"
+  ],
+  "key": {
+      "#": {
+          "item": "minecraft:gold_block"
+      },
+      "I": {
+          "item": "megatools:excavator_diamond"
+      }
+  },
+  "result": {
+      "item": "megatools:excavator_diamond_gilded",
+      "count": 1
+  }
+}

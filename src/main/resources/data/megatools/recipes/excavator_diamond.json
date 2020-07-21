@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      "#D#",
+      " I "
+  ],
+  "key": {
+      "#": {
+          "item": "minecraft:diamond"
+      },
+      "D": {
+          "item": "minecraft:diamond_block"
+      },
+      "I": {
+          "item": "megatools:excavator_iron"
+      }
+  },
+  "result": {
+      "item": "megatools:excavator_diamond",
+      "count": 1
+  }
+}

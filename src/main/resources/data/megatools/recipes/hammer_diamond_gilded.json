@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      "# ",
+      "D#"
+  ],
+  "key": {
+      "#": {
+          "item": "minecraft:gold_block"
+      },
+      "D": {
+          "item": "megatools:hammer_diamond"
+      }
+  },
+  "result": {
+      "item": "megatools:hammer_diamond_gilded",
+      "count": 1
+  }
+}

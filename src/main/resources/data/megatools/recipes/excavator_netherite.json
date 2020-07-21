@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+      "item": "megatools:excavator_diamond"
+  },
+  "addition": {
+      "item": "minecraft:netherite_ingot"
+  },
+  "result": {
+      "item": "megatools:excavator_netherite"
+  }
+}

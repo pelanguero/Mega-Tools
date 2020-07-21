@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      "iIi",
+      " / ",
+      " / "
+  ],
+  "key": {
+      "i": {
+          "item": "minecraft:iron_ingot"
+      },
+      "I": {
+          "item": "minecraft:iron_block"
+      },
+      "/": {
+          "item": "minecraft:stick"
+      }
+  },
+  "result": {
+      "item": "megatools:hammer_iron",
+      "count": 1
+  }
+}

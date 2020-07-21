@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      "# ",
+      "D#"
+  ],
+  "key": {
+      "#": {
+          "item": "minecraft:netherite_scrap"
+      },
+      "D": {
+          "item": "megatools:hammer_diamond_gilded"
+      }
+  },
+  "result": {
+      "item": "megatools:hammer_diamond_corrupted",
+      "count": 1
+  }
+}

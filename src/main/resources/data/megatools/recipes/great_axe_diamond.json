@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      "#D",
+      "D/",
+      " /"
+  ],
+  "key": {
+      "#": {
+          "item": "minecraft:diamond_block"
+      },
+      "D": {
+          "item": "minecraft:diamond"
+      },
+      "/": {
+          "item": "minecraft:stick"
+      }
+  },
+  "result": {
+      "item": "megatools:great_axe_diamond",
+      "count": 1
+  }
+}

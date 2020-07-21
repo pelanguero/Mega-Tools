@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+      "layer0": "megatools:item/great_axe_iron"
+    }
+}
