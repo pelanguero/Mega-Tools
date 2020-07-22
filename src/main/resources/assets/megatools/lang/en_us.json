@@ -1,0 +1,23 @@
+{
+    "item.megatools.void_hammer":"Void Hammer",
+    "item.megatools.excavator_iron":"Iron Excavator",
+    "item.megatools.excavator_iron_gilded":"Gilded Iron Excavator",
+    "item.megatools.excavator_diamond":"Diamond Excavator",
+    "item.megatools.excavator_diamond_gilded":"Gilded Diamond Excavator",
+    "item.megatools.excavator_diamond_corrupted":"Diamond Corrupted Excavator",
+    "item.megatools.excavator_netherite":"Netherite Excavator",
+    "item.megatools.excavator_netherite_gilded":"Gilded Netherite Excavator",
+    "item.megatools.excavator_netherite_diamond":"Diamond Netherite Excavator",
+    "item.megatools.hammer_gold":"Gold Hammer",
+    "item.megatools.hammer_iron":"Iron Hammer",
+    "item.megatools.hammer_iron_gilded":"Gilded Iron Hammer",
+    "item.megatools.hammer_diamond":"Diamond Hammer",
+    "item.megatools.hammer_diamond_gilded":"Gilded Diamond Hammer",
+    "item.megatools.hammer_diamond_corrupted":"Diamond Corrupted Hammer",
+    "item.megatools.hammer_netherite":"Netherite Hammer",
+    "item.megatools.hammer_netherite_gilded":"Gilded Netherite Hammer",
+    "item.megatools.hammer_netherite_diamond":"Diamond Netherite Hammer",
+    "item.megatools.great_axe_iron":"Iron Great Axe",
+    "item.megatools.great_axe_diamond":"Diamond Great Axe",
+    "item.megatools.great_axe_netherite":"Netherite Great Axe"
+}

@@ -1,0 +1,23 @@
+{
+    "item.megatools.void_hammer":"Martillo del Vacio",
+    "item.megatools.excavator_iron":"Excavadora de hierro",
+    "item.megatools.excavator_iron_gilded":"Excavadora Dorada de Hierro",
+    "item.megatools.excavator_diamond":"Excavadora de Diamante",
+    "item.megatools.excavator_diamond_gilded":"Excavadora Dorada de Diamante",
+    "item.megatools.excavator_diamond_corrupted":"Excavadora de Diamante Corrupta",
+    "item.megatools.excavator_netherite":"Excavadora de Netherita",
+    "item.megatools.excavator_netherite_gilded":"Excavadora Dorada de Netherita",
+    "item.megatools.excavator_netherite_diamond":"Excavadora de Netherita Diamantada",
+    "item.megatools.hammer_gold":"Martillo de Oro",
+    "item.megatools.hammer_iron":"Martillo de Hierro",
+    "item.megatools.hammer_iron_gilded":"Martillo Dorado de Hierro",
+    "item.megatools.hammer_diamond":"Martillo de Diamante",
+    "item.megatools.hammer_diamond_gilded":"Martillo Dorado de Diamante",
+    "item.megatools.hammer_diamond_corrupted":"Martillo de Diamante Corrupto",
+    "item.megatools.hammer_netherite":"Martillo de Netherita",
+    "item.megatools.hammer_netherite_gilded":"Martillo Dorado de Netherita",
+    "item.megatools.hammer_netherite_diamond":"Martillo de Netherita Diamantado",
+    "item.megatools.great_axe_iron":"Gran Hacha de Hierro",
+    "item.megatools.great_axe_diamond":"Gran Hacha de Diamante",
+    "item.megatools.great_axe_netherite":"Gran Hacha de Netherita"
+}
