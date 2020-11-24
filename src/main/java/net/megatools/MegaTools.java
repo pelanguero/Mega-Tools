@@ -1,10 +1,7 @@
 package net.megatools;
 
 import net.fabricmc.api.ModInitializer;
-import net.megatools.items.ExcavatorItem;
-import net.megatools.items.GreataxeItem;
-import net.megatools.items.HammerItem;
-import net.megatools.items.VoidHammer;
+import net.megatools.items.*;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ToolMaterial;
@@ -23,6 +20,8 @@ public class MegaTools implements ModInitializer {
     public static final ExcavatorItem excavatorNetheriteGilded=new ExcavatorItem(ToolMaterials.NETHERITE,0.5f,0.5f,new Item.Settings().group(ItemGroup.TOOLS).fireproof(),5);
     public static final ExcavatorItem excavatorNetheriteDiamond=new ExcavatorItem(ToolMaterials.NETHERITE,0.5f,0.5f,new Item.Settings().group(ItemGroup.TOOLS).fireproof(),7);
 
+    public static final Paxel paxeel=new Paxel(ToolMaterials.NETHERITE,1,0.5f,new Item.Settings().group(ItemGroup.TOOLS).fireproof(),5);
+
     public static final HammerItem hammerGold=new HammerItem(ToolMaterials.DIAMOND,1,0.5f,new Item.Settings().group(ItemGroup.TOOLS),3);
     public static final HammerItem hammerIron=new HammerItem(ToolMaterials.DIAMOND,1,0.5f,new Item.Settings().group(ItemGroup.TOOLS),3);
     public static final HammerItem hammerIronGilded=new HammerItem(ToolMaterials.DIAMOND,1,0.5f,new Item.Settings().group(ItemGroup.TOOLS),5);
@@ -30,8 +29,8 @@ public class MegaTools implements ModInitializer {
     public static final HammerItem hammerDiamondGilded=new HammerItem(ToolMaterials.DIAMOND,1,0.5f,new Item.Settings().group(ItemGroup.TOOLS),5);
     public static final HammerItem hammerDiamondCorrupted=new HammerItem(ToolMaterials.DIAMOND,1,0.5f,new Item.Settings().group(ItemGroup.TOOLS).fireproof(),7);
     public static final HammerItem hammerNetherite=new HammerItem(ToolMaterials.DIAMOND,1,0.5f,new Item.Settings().group(ItemGroup.TOOLS).fireproof(),3);
-    public static final HammerItem hammerNetheriteGilded=new HammerItem(ToolMaterials.DIAMOND,1,0.5f,new Item.Settings().group(ItemGroup.TOOLS).fireproof(),5);
-    public static final HammerItem hammerNetheriteDiamond=new HammerItem(ToolMaterials.DIAMOND,1,0.5f,new Item.Settings().group(ItemGroup.TOOLS).fireproof(),7);
+    public static final HammerItem hammerNetheriteGilded=new HammerItem(ToolMaterials.NETHERITE,1,0.5f,new Item.Settings().group(ItemGroup.TOOLS).fireproof(),5);
+    public static final HammerItem hammerNetheriteDiamond=new HammerItem(ToolMaterials.NETHERITE,1,0.5f,new Item.Settings().group(ItemGroup.TOOLS).fireproof(),7);
 
     public static final GreataxeItem greatAxeIron=new GreataxeItem(ToolMaterials.IRON,14f,0.5f,new Item.Settings().group(ItemGroup.TOOLS),3);
     public static final GreataxeItem greatAxeDiamond=new GreataxeItem(ToolMaterials.DIAMOND,16f,0.5f,new Item.Settings().group(ItemGroup.TOOLS),3);
@@ -59,6 +58,8 @@ public class MegaTools implements ModInitializer {
         Registry.register(Registry.ITEM,new Identifier("megatools","great_axe_iron"),greatAxeIron);
         Registry.register(Registry.ITEM,new Identifier("megatools","great_axe_diamond"),greatAxeDiamond);
         Registry.register(Registry.ITEM,new Identifier("megatools","great_axe_netherite"),greatAxeNetherite);
+
+        Registry.register(Registry.ITEM,new Identifier("megatools","great_paxel"),paxeel);
 
     }
 }
